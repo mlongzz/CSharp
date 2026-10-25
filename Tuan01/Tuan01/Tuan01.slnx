@@ -1,0 +1,14 @@
+<Solution>
+  <Project Path="../Buoi7_Bai2/Buoi7_Bai2.csproj" />
+  <Project Path="../Buoi7_Bai3/Buoi7_Bai3.csproj" Id="bca6d49e-61f6-4c3e-9efe-3380b21538ae" />
+  <Project Path="../Buoi7_Bai4/Buoi7_Bai4.csproj" Id="e9e624b4-8640-46d7-9ad1-90ffff7e777e" />
+  <Project Path="../Buoi8_Bai1/Buoi8_Bai1.csproj" Id="86d974f3-067f-45bf-bf54-e8e256c0d933" />
+  <Project Path="../Buoi8_Bai2/Buoi8_Bai2.csproj" Id="e1dc708a-5d3e-44c2-a9a1-80ec9257248c" />
+  <Project Path="../Buoi8_Bai3/Buoi8_Bai3.csproj" Id="ed248750-7b00-4ea6-be06-5cf1da2e4417" />
+  <Project Path="../Buoi8_Bai4/Buoi8_Bai4.csproj" Id="6eef303d-a8ad-4fdb-977e-d9a762f2a28d" />
+  <Project Path="../Buoi9_Bai1/Buoi9_Bai1.csproj" Id="f27fad25-ed99-4971-be5d-393d0af5192d" />
+  <Project Path="../Buoi9_Bai2/Buoi9_Bai2.csproj" Id="42e08602-1587-495c-9db6-efeab3adc482" />
+  <Project Path="../Buoi9_Bai3/Buoi9_Bai3.csproj" Id="0c703ce8-1a3d-4dcb-844f-f5db8afd2e77" />
+  <Project Path="../Buoi9_Bai4/Buoi9_Bai4.csproj" Id="07af5ef2-aa04-4ee4-8cd4-8fbcc972714f" />
+  <Project Path="Buoi7_Bai1.csproj" />
+</Solution>
